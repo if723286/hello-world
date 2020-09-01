@@ -7,3 +7,5 @@ Prime r repositorio de Github para aprender el uso de Git
 1. Optimizacion
 2. Simulacion Montecarlo
 3. Ecuaciones Diferenciales
+
+agrege esta linea solo como prueba de repositorios
